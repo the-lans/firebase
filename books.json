@@ -1,0 +1,34 @@
+{
+	"Book1":
+	{
+		"Title": "The Fellowship of the Ring",
+		"Author": "J.R.R. Tolkien",
+		"Genre": "Epic fantasy",
+		"Price": 105,
+		"value": 3
+	},
+	"Book2":
+	{
+		"Title": "The Two Towers",
+		"Author": "J.R.R. Tolkien",
+		"Genre": "Epic fantasy",
+		"Price": 100,
+		"value": 2
+	},
+	"Book3":
+	{
+		"Title": "The Return of the King",
+		"Author": "Tolkien",
+		"Genre": "Fantasy",
+		"Price": 80,
+		"value": 1
+	},
+	"Book4":
+	{
+		"Title": "Brida",
+		"Author": "Paulo Coelho",
+		"Genre": "Fiction",
+		"Price": 90,
+		"value": 4
+	}
+}
